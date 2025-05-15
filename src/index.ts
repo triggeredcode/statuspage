@@ -1,1 +1,1 @@
-console.log("hello")
+import { NestFactory } from "@nestjs/core"

@@ -1,1 +1,1 @@
-{"name": "demo-project", "version": "1.0.0"}
+{"name": "demo-project", "dependencies": {"@nestjs/core": "^10.3.3"}}
